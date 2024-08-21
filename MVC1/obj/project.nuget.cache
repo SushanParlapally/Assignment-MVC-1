@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "74ioQA6Xjdo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\MVC1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\parla\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\parla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\parla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

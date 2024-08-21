@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Bingo"] - Bingo</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Arial', sans-serif; /* Clean and modern font */
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4; /* Light grey background for the whole page */
+            color: #333; /* Darker text color for better readability */
+        }
+
+        header {
+            background-color: black; /* Bootstrap blue for header */
+            color: #fff; /* White text color */
+            padding: 10px 0;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center; /* Center navigation items */
+        }
+
+        nav ul li {
+            margin: 0 15px; /* Spacing between navigation items */
+        }
+
+        nav ul li a {
+            color: #fff; /* White text color */
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+
+        main {
+            max-width: 900px; /* Maximum width for main content */
+            margin: 20px auto; /* Center content horizontally */
+            padding: 20px;
+            background-color: #fff; /* White background for main content */
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: yellow; /* Same blue as header */
+            color: #fff; /* White text color */
+            position: fixed;
+            bottom: 0;
+            width: 100%; /* Full width for footer */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/First/Index1">First Index1</a></li>
+                <li><a href="/Second/Index1">Second Index1</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+    <footer>
+        <p>&copy; 2024 - Bingo</p>
+    </footer>
+</body>
+</html>

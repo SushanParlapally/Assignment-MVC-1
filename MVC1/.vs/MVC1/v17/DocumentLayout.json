@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\second\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\second\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\second\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\second\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\second\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\second\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\first\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\first\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\first\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\first\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|c:\\users\\parla\\assignments\\mvc-1\\mvc1\\views\\first\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8C0B14-EAA3-4E81-9653-405BB4AA4C71}|MVC1.csproj|solutionrelative:views\\first\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:29:31.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:26:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index3.cshtml",
+              "RelativeDocumentMoniker": "Views\\Second\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index3.cshtml",
+              "RelativeToolTip": "Views\\Second\\Index3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:23:25.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Second\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Second\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:23:11.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Second\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\Second\\Index1.cshtml",
+              "RelativeToolTip": "Views\\Second\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:22:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index3.cshtml",
+              "RelativeDocumentMoniker": "Views\\First\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index3.cshtml",
+              "RelativeToolTip": "Views\\First\\Index3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:21:28.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\First\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index2.cshtml",
+              "RelativeToolTip": "Views\\First\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:21:06.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\First\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Views\\First\\Index1.cshtml",
+              "RelativeToolTip": "Views\\First\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:20:53.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecondController.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "Controllers\\SecondController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:13:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FirstController.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\MVC-1\\MVC1\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "Controllers\\FirstController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:22:51.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

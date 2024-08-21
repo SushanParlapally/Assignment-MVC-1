@@ -1,0 +1,62 @@
+namespace MVC1
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+            // Add services to the container.
+            builder.Services.AddControllersWithViews();
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Home/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
+
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
+            app.UseRouting();
+
+            // Middleware to terminate chain when URL contains /end
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Path.StartsWithSegments("/end"))
+                {
+                    await context.Response.WriteAsync("Terminated at /end");
+                    return;
+                }
+                await next();
+            });
+
+           
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Path.StartsWithSegments("/hello"))
+                {
+                    await context.Response.WriteAsync("Hello from middleware 1");
+                    await next();
+                    await context.Response.WriteAsync("Hello from middleware 2");
+                }
+                else
+                {
+                    await next();
+                }
+            });
+
+            app.UseAuthorization();
+
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            app.Run();
+        }
+    }
+}
